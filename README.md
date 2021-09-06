@@ -1,7 +1,9 @@
 # startToLearnReactPart5
 
 _A look behind the scene of REACT. Optimization techniques.
+
 _React Re-evaluation flow. **React.memo** to prevent unnecessary Re-evaluation
+
 _"useCallback" to store function that may never change to prevent Re-evaluation
 
 _useCallback(() => {
